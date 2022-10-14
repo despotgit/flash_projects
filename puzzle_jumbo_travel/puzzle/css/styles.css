@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.highlighted_row
+{
+  font-style: normal;
+  background-color: red; 	
+	
+}
+
+.highscore-table
+{
+  border: 1;
+  bordercolor: #FFCC00; 
+  background-color:#FFFFCC;
+  width: 50%;
+  cellpadding: 3;
+  cellspacing:3;	
+  margin-left:auto; 
+  margin-right:auto;
+	
+}

@@ -1,0 +1,1 @@
+iNSERT INTO scores( `name`, `email`, `score`, `score_hours`, `score_minutes`, `score_seconds`, `score_tenths`) VALUES('DOVLA', 'KRALJ@jo,com', 12.1, 0, 0, 12, 1);
